@@ -1,11 +1,11 @@
 # A very simple email sender
 
 **Goal of this project** is to draft a very minimalist email sender class.  
-This project is not packaged, nor installed on PyPI. To see a finished project that you can `pip install` from the terminal, check out my [get.comics.anywhere repository](https://github.com/lorismat/get.comics.anywhere).  
+This project is not packaged, and cannot be installed from PyPI. To see a finished project that you can `pip install` from the terminal, check out my [get.comics.anywhere repository](https://github.com/lorismat/get.comics.anywhere).  
 
 The class is called `sender.py`. The `example.py` is an illustration on how to use it.  
 
-Below are some documentation I've used on the way, not relevant required to use the class.  
+Below are some documentation I've used on the way, not required to use the class.  
 
 ## General Doc on SMTP
 
